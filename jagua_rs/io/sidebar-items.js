@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["json_instance","json_solution","parser"]};

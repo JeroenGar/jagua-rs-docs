@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["generate_additional_surrogate_poles","generate_next_pole"]};

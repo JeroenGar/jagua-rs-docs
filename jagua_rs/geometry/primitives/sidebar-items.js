@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["aa_rectangle","circle","edge","point","simple_polygon"]};
