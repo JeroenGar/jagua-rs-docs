@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["build_bin_packing_solution","build_solution_from_json","build_strip_packing_solution","compose_json_solution"],"struct":["Parser"]};

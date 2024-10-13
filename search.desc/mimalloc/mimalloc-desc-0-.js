@@ -1,0 +1,1 @@
+searchState.loadedDescShard("mimalloc", 0, "A drop-in global allocator wrapper around the mimalloc …\nDrop-in mimalloc global allocator.\nReturns the argument unchanged.\nCalls <code>U::from(self)</code>.")

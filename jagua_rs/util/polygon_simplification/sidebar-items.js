@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["PolySimplConfig","PolySimplMode"],"fn":["simplify_shape"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["STRIP_LAYOUT_IDX"],"enum":["LayoutIndex"],"trait":["ProblemGeneric"]};
