@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["ITEM_LIMIT"],"fn":["find_lbf_placement","sample_layout"],"struct":["LBFOptimizer"]};

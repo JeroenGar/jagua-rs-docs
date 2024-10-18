@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["JsonContainer"],"struct":["JsonLayout","JsonLayoutStats","JsonPlacedItem","JsonSolution","JsonTransformation"]};

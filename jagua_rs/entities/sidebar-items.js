@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["bin","instances","item","layout","placed_item","placing_option","problems","quality_zone","solution"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["PI"],"mod":["collision_detection","entities","geometry","io","util"],"type":["fsize"]};

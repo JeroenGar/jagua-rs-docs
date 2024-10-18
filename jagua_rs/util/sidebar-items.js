@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["print_layout"],"mod":["assertions","config","fpa","polygon_simplification"]};

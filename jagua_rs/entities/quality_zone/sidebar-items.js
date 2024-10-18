@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["N_QUALITIES"],"struct":["InferiorQualityZone"]};

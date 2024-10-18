@@ -1,0 +1,1 @@
+searchState.loadedDescShard("proc_macro_nested", 0, "Support for nested invocations of proc-macro-hack …")

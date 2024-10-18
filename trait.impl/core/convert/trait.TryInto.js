@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"jagua_rs":[["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.81.0/core/convert/trait.TryInto.html\" title=\"trait core::convert::TryInto\">TryInto</a>&lt;<a class=\"struct\" href=\"jagua_rs/entities/placed_item/struct.PItemKey.html\" title=\"struct jagua_rs::entities::placed_item::PItemKey\">PItemKey</a>&gt; for &amp;<a class=\"enum\" href=\"jagua_rs/collision_detection/hazard/enum.HazardEntity.html\" title=\"enum jagua_rs::collision_detection::hazard::HazardEntity\">HazardEntity</a>"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

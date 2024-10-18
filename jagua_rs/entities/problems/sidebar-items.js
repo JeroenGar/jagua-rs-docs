@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["bin_packing","problem","problem_generic","strip_packing"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["blend_colors","change_brightness"],"struct":["Color","SvgDrawOptions","SvgLayoutTheme"]};
